@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @TheskeptcDC
 - 👀 I’m interested in electronics with AI
 - 💞️ I’m looking to collaborate on related projects 
-- 📫 just inbox 
+- 📫 just inbox
+- ..oh and a full stack web developer still up for colaborations 
+  
   
 
 
