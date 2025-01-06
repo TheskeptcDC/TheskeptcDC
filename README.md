@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheskeptcDC
+- 👋 Hi, I’m Daliso Banda
 - 👀 I’m interested in electronics with AI
 - 💞️ I’m looking to collaborate on related projects 
 - 📫 just inbox
